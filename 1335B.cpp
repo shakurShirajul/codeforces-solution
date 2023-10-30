@@ -1,3 +1,8 @@
+/*
+*  Authur: Shirajul Islam Shakur
+*  Problem Link: https://codeforces.com/problemset/problem/1335/B
+*  Codeforces Profile: https://codeforces.com/profile/Shakur
+*/
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
